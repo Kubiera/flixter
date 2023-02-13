@@ -37,8 +37,7 @@ GIF created with [peek](https://github.com/phw/peek) for Linux
 
 <img src='imageview.png' title='additional context' width='' alt='additional context' />
 ## Notes
-
-Describe any challenges encountered while building the app.
+no difficulties
 
 ## License
 
